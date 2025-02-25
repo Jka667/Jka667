@@ -4,7 +4,7 @@
             <b>
             Hello There!
         <br>
-            I'm Kassegne Jonathan, a Cyber Analyst and System Administrator with a passion for Linux & Active Directory.
+            I'm Kassegne Jonathan, a Cyber Analyst  with a passion for Linux & Active Directory.
                 I love scripting to automate tasks in my free time and enjoy tackling CTF challenges!
             </b>
         <br>
