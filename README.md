@@ -2,10 +2,10 @@
     <p align="center">
       <samp><br>
             <b>
-            Hello There!
+            Hello !
         <br>
-            I'm Kassegne Jonathan, a Cyber Analyst  with a passion for Linux & Active Directory.
-                I love scripting to automate tasks in my free time and enjoy tackling CTF challenges!
+            I'm Jonathan, a Cybersecurity savy.
+                I love scripting to automate tasks with bash in my free time and enjoy tackling CTF
             </b>
         <br>
         <br>
