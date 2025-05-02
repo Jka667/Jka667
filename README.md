@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=28&color=BC83E3&center=true&width=500&height=45&lines=Explore.+Exploit.+Evolve.">
 </p>
@@ -6,24 +7,19 @@
 
 <p align="center">
   <samp>
-  🧠 SOC Analyst & Cybersecurity Consultant • 🛠️ Automation Addict • 🐚 Bash Lover • 🇫🇷/🇬🇧
-  <br>
-  🎯 I monitor, investigate, and secure systems in real-time using modern SIEMs & EDRs. I script, break, and build. Again and again.
-  <br><br>
-  💻 I'm the creator of <a href="https://sysadminbible.com" target="_blank"><strong>SysAdminBible.com</strong></a> — a blog and a script shop for sysadmins and red teamers who want to save time, learn faster, and automate everything.
+    🧠 SOC Analyst | 🛡️ Cybersecurity Enthusiast | 🛠️ Automation Nerd | 🇫🇷/🇬🇧
+    <br>
+    📍 Based in Montréal | 🔍 Incident Detection, SIEM, EDR & Forensics
+    <br><br>
+    🎯 I secure infrastructures, script solutions, and break stuff to make it better.
+    <br>
+    💡 Creator of <a href="https://sysadminbible.com" target="_blank"><strong>SysAdminBible.com</strong></a> — where I share scripts, labs, and tools to speed up blue team & red team tasks.
   </samp>
 </p>
 
 ---
 
-### 🕵️‍♂️ About Me
-
-- 👨‍💻 Cybersecurity Analyst (SOC L1–L2), currently based in Montréal
-- 🎓 DEC in Cloud Computing & Security @ Institut Teccart (2025)
-- 🚨 Real-world experience with SIEM (Sentinel, ELK), EDR (CrowdStrike), forensic, and incident response
-- 💬 Bilingual 🇫🇷 / 🇬🇧 — Ready to handle international clients
-
--------------------------------------------------------------------------------
+### 🛠️ Stack & Tools
 
 <p align="center">
   <!-- Scripting & OS -->
@@ -50,24 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
 
--------------------------------------------------------------------------------
-
-### 📦 My Script Store
-
-⚡ On my blog, I publish **ready-to-use scripts** in Bash, Python, and PowerShell that simplify the life of sysadmins, pentesters, and blue teamers.  
-🔐 Files are zipped, some are locked. You can **crack them**... or pay to unlock.
-
-👉 [**Visit SysAdminBible.com**](https://sysadminbible.com)
-
--------------------------------------------------------------------------------
-
-### 🧠 Ongoing Goals
-
- 
-- 🧪 Continue exploring adversary emulation & threat detection  
-- 📹 Launch cybersecurity video series documenting tools & attack techniques
-
--------------------------------------------------------------------------------
+---
 
 <p align="center">
   <samp>~ kass3g aka Jonathan K. ~</samp><br>
