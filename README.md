@@ -40,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://github.com/Jka667/Jka667/blob/main/assets/soc-tools/crowdstrike.png" width="40"/>
+  <img src="https://github.com/Jka667/Jka667/blob/main/assets/soc-tools/elastic.png" width="40"/>
+  <img src="https://github.com/Jka667/Jka667/blob/main/assets/soc-tools/graylog.png" width="40"/>
+  <img src=https://github.com/Jka667/Jka667/blob/main/assets/soc-tools/sentinel.png" width="40"/>
+  
+  
 </p>
 
 ------------------------------------------------------------------------------------------------------------------
