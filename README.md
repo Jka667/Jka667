@@ -55,7 +55,7 @@
 
 ### 🧠 Ongoing Goals
 
-- ☁️ Pass my **AWS SysOps** & **CompTIA Security+** (target: June 2025)  
+ 
 - 🧪 Continue exploring adversary emulation & threat detection  
 - 📹 Launch cybersecurity video series documenting tools & attack techniques
 
