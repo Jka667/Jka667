@@ -19,9 +19,8 @@
 ### 🕵️‍♂️ About Me
 
 - 👨‍💻 Cybersecurity Analyst (SOC L1–L2) System Administrator
-- 🎓 DEC in Cloud Computing & Security 
 - 🚨 Real-world experience with SIEM (Sentinel, ELK), EDR (CrowdStrike), forensic, and incident response
-- 💬 Bilingual 🇫🇷 / 🇬🇧 — Ready to handle international clients
+- 💉 Threat hunter and malware analyse addict
 
 ------------------------------------------------------------------------------------------------------------------
 
