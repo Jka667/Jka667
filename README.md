@@ -61,7 +61,7 @@
 ### 🧠 Ongoing Goals
 
 - 🧪 Continue exploring adversary emulation & threat detection  
-- 📹 Launch cybersecurity video series documenting tools & attack techniques
+- 📹 Launch cybersecurity video series documenting tools & attack techniques (open to collabe)
 
 ------------------------------------------------------------------------------------------------------------------
 
