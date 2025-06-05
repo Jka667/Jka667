@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-   SOC Analyst & Cybersecurity Consultant • 🛠️ Automation Addict • 🐚 Bash Lover • 🇫🇷/🇬🇧
+   SOC Analyst & Threats hunter • 🛠️ Automation Addict • 🐚 Bash Lover • 🇫🇷/🇬🇧
   <br>
   🎯 I monitor, investigate, and secure systems in real-time using modern SIEMs & EDRs. I script, break, and build. Again and again.
   <br><br>
