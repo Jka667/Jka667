@@ -58,13 +58,6 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-### 🧠 Ongoing Goals
-
-- 🧪 Continue exploring adversary emulation & threat detection  
-- 📹 Launch cybersecurity video series documenting tools & attack techniques (open to collabe)
-
-------------------------------------------------------------------------------------------------------------------
-
 <p align="center">
   <samp>~ kass3g aka Jonathan K. ~</samp><br>
   <a href="https://linkedin.com/in/jokassegne667" target="_blank">🔗 LinkedIn</a> | <a href="mailto:kassegnej@gmail.com">📧 Email</a> | <a href="https://sysadminbible.com">🌐 Blog</a>
