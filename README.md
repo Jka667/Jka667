@@ -1,16 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=28&color=BC83E3&center=true&width=500&height=45&lines=Explore.+Exploit.+Evolve.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=28&color=BC83E3&center=true&width=500&height=45&lines=[Defend][Hack][Automate].">
 </p>
 
 <h1 align="center"><samp>Hi, I’m Jonathan K.</samp></h1>
 
 <p align="center">
   <samp>
-   Cybersecurity Analyst • 🛠️ Automation Addict • 🐞Malware Developper
+🕸️ Cybersecurity Analyst • 🛠️ Automation Addict • 🐞Malware Developper
   <br>
-   I monitor, investigate, and secure systems in real-time using modern SIEMs & EDRs. I script, break, and build. Again and again.
-  <br><br>
-  💻 I'm the creator of <a href="https://sysadminbible.com" target="_blank"><strong>SysAdminBible.com</strong></a> — a blog and a script shop for sysadmins and red teamers who want to save time, learn faster, and automate everything.
+    I monitor, investigate, and secure systems in real-time. I script, break, and build. Again and again.
+  <br><br>  
+    Creator of 👉(https://sysadminbible.com)
+    On this blog, I sell exclusive ready-to-use IaC and automation scripts in Terraform, Python, and PowerShell, tailored for businesses and enterprise environments.
+    
+
+
   </samp>
 </p>
 
@@ -49,13 +53,15 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-On my blog, I sell exclusive ready-to-use IaC and automation scripts in Terraform, Python, and PowerShell, tailored for businesses and enterprise environments.
-
-👉 [**Visit SysAdminBible.com**](https://sysadminbible.com)
 
 ------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <samp>~ Jonathan K. ~</samp><br>
-  <a href="https://linkedin.com/in/jokassegne667" target="_blank">🔗 LinkedIn</a> | <a href="mailto:kassegnej@gmail.com">📧 Email</a> | <a href="https://sysadminbible.com">🌐 Blog</a>
+ <p>
+  <a href="mailto:kassegnej@gmail.com">📧 Email</a> | 
+  <a href="https://sysadminbible.com" target="_blank">🌐 Blog</a> | 
+  <a href="https://www.youtube.com/@kjonathan777/videos" target="_blank">▶️ YouTube</a> | 
+  <a href="https://www.instagram.com/jka667.sh" target="_blank">📸 Instagram</a>
 </p>
+
