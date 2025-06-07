@@ -6,9 +6,9 @@
 
 <p align="center">
   <samp>
-   SOC Analyst & Threats hunter • 🛠️ Automation Addict • 🐚 Bash Lover • 🇫🇷/🇬🇧
+   Cybersecurity Analyst • 🛠️ Automation Addict • 🐞Malware Developper
   <br>
-  🎯 I monitor, investigate, and secure systems in real-time using modern SIEMs & EDRs. I script, break, and build. Again and again.
+   I monitor, investigate, and secure systems in real-time using modern SIEMs & EDRs. I script, break, and build. Again and again.
   <br><br>
   💻 I'm the creator of <a href="https://sysadminbible.com" target="_blank"><strong>SysAdminBible.com</strong></a> — a blog and a script shop for sysadmins and red teamers who want to save time, learn faster, and automate everything.
   </samp>
@@ -49,16 +49,13 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-### 📦 My Script Store
-
-⚡ On my blog, I publish **ready-to-use scripts** in Bash, Python, and PowerShell that simplify the life of sysadmins, pentesters, and blue teamers.  
-🔐 Files are zipped, some are locked. You can **crack them**... or pay to unlock.
+On my blog, I sell exclusive ready-to-use IaC and automation scripts in Terraform, Python, and PowerShell, tailored for businesses and enterprise environments.
 
 👉 [**Visit SysAdminBible.com**](https://sysadminbible.com)
 
 ------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <samp>~ kass3g aka Jonathan K. ~</samp><br>
+  <samp>~ Jonathan K. ~</samp><br>
   <a href="https://linkedin.com/in/jokassegne667" target="_blank">🔗 LinkedIn</a> | <a href="mailto:kassegnej@gmail.com">📧 Email</a> | <a href="https://sysadminbible.com">🌐 Blog</a>
 </p>
