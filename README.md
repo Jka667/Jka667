@@ -9,7 +9,8 @@
 🕸️ Cybersecurity Analyst •  Automation Addict • Malware Developper
   <br>
     I monitor, investigate, and secure systems in real-time. I script, break, and build. Again and again.
-    Free scripts and ressources on github but on this blog (https://cybersecuritybible.com), I sell exclusive ready-to-use IaC and automation scripts, payloads and Smart contracts.
+    Free scripts and ressources on github but on here : 
+    https://cybersecuritybible.com I sell exclusive ready-to-use IaC, automation scripts, prompts, payloads and Solidity/Rust Smart contracts.
   <br><br>  
     
   
@@ -23,7 +24,7 @@
 
 ###  About Me
 
-- 💉 Threat hunter, CTF lover and malware analyse addict
+- 💉 Threat hunter, CTF lover, Blockchain dev and malware analyze addict
 
 ------------------------------------------------------------------------------------------------------------------
 
