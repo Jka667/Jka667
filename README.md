@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=28&color=BC83E3&center=true&width=500&height=45&lines=[Defend][Hack][Automate].">
 </p>
 
-<h1 align="center"><samp>Hi, I’m Jonathan K.</samp></h1>
+<h1 align="center"><samp> I’m Jonathan K.</samp></h1>
 
 <p align="center">
   <samp>
@@ -10,8 +10,8 @@
   <br>
     I monitor, investigate, and secure systems in real-time. I script, break, and build. Again and again.
   <br><br>  
-    Creator of 👉(https://sysadminbible.com)
-    On this blog, I sell exclusive ready-to-use IaC and automation scripts in Terraform, Python, and PowerShell, tailored for businesses and enterprise environments.
+    Creator of 👉(https://cybersecuritybible.com)
+    On this blog, I sell exclusive ready-to-use IaC and automation scripts in Terraform, Python, and PowerShell, payloads and Smart contracts.
     
 
 
@@ -22,13 +22,11 @@
 
 ### 🕵️‍♂️ About Me
 
-- 👨‍💻 Cybersecurity Analyst (SOC L1–L2) System Administrator
-- 🚨 Real-world experience with SIEM (Sentinel, ELK), EDR (CrowdStrike), forensic, and incident response
 - 💉 Threat hunter and malware analyse addict
 
 ------------------------------------------------------------------------------------------------------------------
 
-### 🛠️ Stack & Tools
+###  Stack & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -61,7 +59,7 @@
  <p>
   <a href="mailto:kassegnej@gmail.com">📧 Email</a> | 
   <a href="https://sysadminbible.com" target="_blank">🌐 Blog</a> | 
-  <a href="https://www.youtube.com/@kjonathan777/videos" target="_blank">▶️ YouTube</a> | 
-  <a href="https://www.instagram.com/jka667.sh" target="_blank">📸 Instagram</a>
+  <a href="https://www.youtube.com/@jka667" target="_blank">▶️ YouTube</a> | 
+  <a href="(https://www.instagram.com/blt_coin.sh/)" target="_blank">📸 Instagram</a>
 </p>
 
