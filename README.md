@@ -6,12 +6,12 @@
 
 <p align="center">
   <samp>
-🕸️ Cybersecurity Analyst • 🛠️ Automation Addict • 🐞Malware Developper
+🕸️ Cybersecurity Analyst •  Automation Addict • Malware Developper
   <br>
     I monitor, investigate, and secure systems in real-time. I script, break, and build. Again and again.
   <br><br>  
-    Creator of 👉(https://cybersecuritybible.com)
-    On this blog, I sell exclusive ready-to-use IaC and automation scripts in Terraform, Python, and PowerShell, payloads and Smart contracts.
+    
+    Free scripts and ressources on github but on this blog (https://cybersecuritybible.com), I sell exclusive ready-to-use IaC and automation scripts in Terraform, Python, and PowerShell, payloads and Smart contracts.
     
 
 
@@ -20,9 +20,9 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-### 🕵️‍♂️ About Me
+###  About Me
 
-- 💉 Threat hunter and malware analyse addict
+- 💉 Threat hunter, CTF lover and malware analyse addict
 
 ------------------------------------------------------------------------------------------------------------------
 
