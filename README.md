@@ -24,7 +24,9 @@
 
 ###  About Me
 
-- 💉 Threat hunter, CTF lover, Blockchain dev and malware analyze addict
+- Threat hunter, CTF lover, Malware analyzer
+- Blockchain Analyst
+- Articles and Write-up's writer
 
 ------------------------------------------------------------------------------------------------------------------
 
