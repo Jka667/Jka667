@@ -10,7 +10,7 @@
   <br>
     I monitor, investigate, and secure systems in real-time. I script, break, and build. Again and again.
     Free scripts and ressources on github but on here : 
-    https://cybersecuritybible.com I sell exclusive ready-to-use IaC, automation scripts, prompts, payloads and Solidity/Rust Smart contracts.
+    https://cybersecuritybible.com I sell exclusive ready-to-use IaC, automation scripts, prompts, payloads and crafted ethereum and solana Smart contracts.
   <br><br>  
     
   
