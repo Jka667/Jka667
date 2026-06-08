@@ -6,11 +6,10 @@
 
 <p align="center">
   <samp>
-🕸️ Cybersecurity Analyst •  Automation Addict • Solution Architect 🕸️
+                                                  Cybersecurity Analyst •  Automation Addict • Solution Architect 
   <br>
     I monitor, investigate, and secure systems in real-time. I script, design technical solutions, break and rebuild systems. Again and again.
-    Free scripts and ressources on github but on here : 
-    https://cybersecuritybible.com I sell exclusive ready-to-use IaC, automation scripts, prompts, payloads and crafted ethereum and solana Smart contracts.
+    On https://cybersecuritybible.com I sell exclusive ready-to-use IaC, automation scripts, AI agents and Solidity crafted Smart Contract 
   <br><br>  
     
   
@@ -62,8 +61,8 @@
   <samp>~ Jonathan K. ~</samp><br>
  <p>
   <a href="mailto:kassegnej@gmail.com">📧 Email</a> | 
-  <a href="https://sysadminbible.com" target="_blank">🌐 Blog</a> | 
+  <a href="https://cybersecuritybible.com" target="_blank">🌐 Blog</a> | 
   <a href="https://www.youtube.com/@jka667" target="_blank">▶️ YouTube</a> | 
-  <a href="(https://www.instagram.com/blt_coin.sh/)" target="_blank">📸 Instagram</a>
+  <a href="(https://www.instagram.com/cyber_block.sh/)" target="_blank">📸 Instagram</a>
 </p>
 
