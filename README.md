@@ -25,8 +25,8 @@
 🔍 Threat Hunter | 🧬 Malware Analyst | 🛠️ IT Operations | 📊 GRC Specialist
 
 
-            Securing networks, analyzing threats, building resilient infrastructure.
-            I turn threat data into actionable intelligence and automation.
+   Securing networks, analyzing threats, building resilient infrastructure.
+   I turn threat data into actionable intelligence and automation.
 
 
 ------------------------------------------------------------------------------------------------------------------
