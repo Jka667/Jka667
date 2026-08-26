@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=28&color=BC83E3&center=true&width=500&height=45&lines=[Defend][Hack][Automate].">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=28&color=BC83E3&center=true&width=500&height=45&lines=[Defend][Hack][Build].">
 </p>
 
 <h1 align="center"><samp> I’m Jonathan K.</samp></h1>
