@@ -6,10 +6,9 @@
 
 <p align="center">
   <samp>
-                                                  Cybersecurity Analyst •  Automation Addict • Solution Architect 
+                                                          Cybersecurity Analyst | GRC & SOC Specialist
   <br>
-    I monitor, investigate, secure systems and showcase my technical skills here. I script, design technical solutions, break and rebuild systems. Again and again.
-    On https://cybersecuritybible.com I sell exclusive ready-to-use IaC, automation scripts, AI agents and Solidity crafted Smart Contract.
+                                 Secure Systems implementation  • SOC Analysis • GRC • Threat Hunting • Python • Automation. Again and again.
   <br><br>  
     
   
@@ -23,9 +22,11 @@
 
 ###  About Me
 
-- Threat hunter, CTF lover, Malware analyzer
-- Blockchain Analyst
-- Articles and Write-up's writer
+🔍 Threat Hunter - Hunting the hunters across your network
+🧬 Malware Analyst - Dissecting threats at the binary level
+🛠️ IT Operations - Building secure, resilient infrastructure
+📊 GRC Specialist - Managing risks, ensuring compliance
+
 
 ------------------------------------------------------------------------------------------------------------------
 
