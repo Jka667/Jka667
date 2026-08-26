@@ -22,10 +22,11 @@
 
 ###  About Me
 
-🔍 Threat Hunter - Hunting the hunters across your network
-🧬 Malware Analyst - Dissecting threats at the binary level
-🛠️ IT Operations - Building secure, resilient infrastructure
-📊 GRC Specialist - Managing risks, ensuring compliance
+🔍 Threat Hunter | 🧬 Malware Analyst | 🛠️ IT Operations | 📊 GRC Specialist
+
+
+            Securing networks, analyzing threats, building resilient infrastructure.
+            I turn threat data into actionable intelligence and automation.
 
 
 ------------------------------------------------------------------------------------------------------------------
