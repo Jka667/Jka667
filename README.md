@@ -50,6 +50,7 @@
   <img src="https://github.com/Jka667/Jka667/blob/main/assets/soc-tools/elastic.png" width="40"/>
   <img src="https://github.com/Jka667/Jka667/blob/main/assets/soc-tools/graylog.png" width="40"/>
   <img src="https://github.com/Jka667/Jka667/blob/main/assets/soc-tools/sentinel.png" width="40"/>
+  <img src="https://github.com/Jka667/Jka667/blob/main/assets/soc-tools/marquee-splunk-logo.webp" width="40"/>
   
   
 </p>
