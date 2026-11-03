@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-                                                          Cybersecurity Analyst | GRC & SOC Specialist
+                                                          SOC Analyst | Detection Engineering (Splunk / SIEM)
   <br>
                                  Secure Systems implementation  • SOC Analysis • GRC • Threat Hunting • Python • Automation. Again and again.
   <br><br>  
@@ -28,6 +28,27 @@
    Securing networks, analyzing threats, building resilient infrastructure.
    I turn threat data into actionable intelligence and automation.
 
+
+------------------------------------------------------------------------------------------------------------------
+
+###  Featured Projects
+
+**Detection Engineering**
+| Project | What it shows | Value for a SOC |
+|---------|---------------|-----------------|
+| [splunk-detection-as-code](https://github.com/Jka667/splunk-detection-as-code) | Splunk rules in YAML, mapped to MITRE ATT&CK, validated in CI | Reviewed, tested, versioned detections with a coverage map |
+| [cti-stix-to-splunk](https://github.com/Jka667/cti-stix-to-splunk) | STIX 2.1 / TAXII 2.1 IOCs → Splunk lookup | Threat intel turned into alerts automatically, no stale IOCs |
+| [purple-team-lab](https://github.com/Jka667/purple-team-lab) | Atomic Red Team / CALDERA vs Splunk, DETECTED / MISSED report | Proof that detections fire, gaps tracked to closure |
+
+**Security tooling & automation**
+| Project | Skills |
+|---------|--------|
+| [AI-ML-Sentinel-PE-Malware-Watchdog](https://github.com/Jka667/AI-ML-Sentinel-PE-Malware-Watchdog) | Static PE analysis, ML (RandomForest), Flask |
+| [Windows-Security-Health-Monitor](https://github.com/Jka667/Windows-Security-Health-Monitor) | PowerShell, Event ID 4625, stale accounts |
+| [Linux-Privilege-Escalation-Enumeration](https://github.com/Jka667/Linux-Privilege-Escalation-Enumeration) | Bash, LinPEAS / LinEnum, privesc vectors |
+| [Rust-Malware-Analysis-Lab](https://github.com/Jka667/Rust-Malware-Analysis-Lab) | Ghidra, strace, safe malware behaviour |
+| [Python-Port-Scanner](https://github.com/Jka667/Python-Port-Scanner) · [PowerShell-Port-Scanner](https://github.com/Jka667/PowerShell-Port-Scanner) | Sockets, network discovery |
+| [FreeIPA-Management-Script](https://github.com/Jka667/FreeIPA-Management-Script) · [Windows-Local-User-Management](https://github.com/Jka667/Windows-Local-User-Management) · [Linux-Admin-Task-Menu](https://github.com/Jka667/Linux-Admin-Task-Menu) | Identity & access management, sysadmin automation |
 
 ------------------------------------------------------------------------------------------------------------------
 
