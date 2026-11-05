@@ -2,7 +2,7 @@
 
 <p align="center"><b>SOC Analyst | Detection Engineering (Splunk / SIEM)</b></p>
 
-<p align="center"><b>CompTIA Security+ certified</b></p>
+<p align="center"><a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/CompTIA-Security%2B%20Certified-C8202F?style=for-the-badge" alt="CompTIA Security+ certified"></a></p>
 
 <p align="center">I build detections that are versioned, reviewed and mapped to real attacker techniques.<br>Open to SOC Analyst and Detection Engineering roles.</p>
 
@@ -25,11 +25,11 @@
 
 | Area | Tools |
 |------|-------|
-| SIEM | <img src="assets/soc-tools/marquee-splunk-logo.webp" alt="" height="24"> Splunk &nbsp; <img src="assets/soc-tools/sentinel.png" alt="" height="24"> Microsoft Sentinel &nbsp; <img src="assets/soc-tools/elastic.png" alt="" height="24"> Elastic &nbsp; <img src="assets/soc-tools/wazuh.png" alt="" height="24"> Wazuh &nbsp; <img src="assets/soc-tools/graylog.png" alt="" height="24"> Graylog |
-| EDR | <img src="assets/soc-tools/crowdstrike.png" alt="" height="24"> CrowdStrike |
-| Network and testing | <img src="assets/soc-tools/wireshark.png" alt="" height="24"> Wireshark &nbsp; <img src="assets/soc-tools/metasploit.png" alt="" height="24"> Metasploit &nbsp; <img src="assets/soc-tools/burpsuite.png" alt="" height="24"> Burp Suite |
-| Scripting | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="" height="24"> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="" height="24"> Bash &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="" height="24"> PowerShell |
-| Platforms | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="" height="24"> Windows &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="" height="24"> Linux &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="" height="24"> Git |
+| SIEM | <a href="https://www.splunk.com"><img src="assets/soc-tools/marquee-splunk-logo.webp" alt="" height="24"> Splunk</a> &nbsp; <a href="https://azure.microsoft.com/products/microsoft-sentinel"><img src="assets/soc-tools/sentinel.png" alt="" height="24"> Microsoft Sentinel</a> &nbsp; <a href="https://www.elastic.co"><img src="assets/soc-tools/elastic.png" alt="" height="24"> Elastic</a> &nbsp; <a href="https://wazuh.com"><img src="assets/soc-tools/wazuh.png" alt="" height="24"> Wazuh</a> &nbsp; <a href="https://graylog.org"><img src="assets/soc-tools/graylog.png" alt="" height="24"> Graylog</a> |
+| EDR | <a href="https://www.crowdstrike.com"><img src="assets/soc-tools/crowdstrike.png" alt="" height="24"> CrowdStrike</a> |
+| Network and testing | <a href="https://www.wireshark.org"><img src="assets/soc-tools/wireshark.png" alt="" height="24"> Wireshark</a> &nbsp; <a href="https://www.metasploit.com"><img src="assets/soc-tools/metasploit.png" alt="" height="24"> Metasploit</a> &nbsp; <a href="https://portswigger.net/burp"><img src="assets/soc-tools/burpsuite.png" alt="" height="24"> Burp Suite</a> |
+| Scripting | <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="" height="24"> Python</a> &nbsp; <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="" height="24"> Bash</a> &nbsp; <a href="https://learn.microsoft.com/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="" height="24"> PowerShell</a> |
+| Platforms | <a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="" height="24"> Windows</a> &nbsp; <a href="https://www.debian.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="" height="24"> Linux</a> &nbsp; <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="" height="24"> Git</a> |
 
 ## Featured projects
 
