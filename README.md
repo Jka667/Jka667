@@ -2,6 +2,8 @@
 
 <p align="center"><b>SOC Analyst | Detection Engineering (Splunk / SIEM)</b></p>
 
+<p align="center"><b>CompTIA Security+ certified</b></p>
+
 <p align="center">I build detections that are versioned, reviewed and mapped to real attacker techniques.<br>Open to SOC Analyst and Detection Engineering roles.</p>
 
 <p align="center">
