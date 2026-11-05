@@ -4,7 +4,6 @@
 
 <p align="center"><a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/CompTIA-Security%2B%20Certified-C8202F?style=for-the-badge" alt="CompTIA Security+ certified"></a></p>
 
-<p align="center"><a href="https://tryhackme.com/p/Shango777"><img src="https://tryhackme-badges.s3.amazonaws.com/Shango777.png" alt="TryHackMe profile of Shango777"></a></p>
 
 <p align="center">I build detections that are versioned, reviewed and mapped to real attacker techniques.<br>Open to SOC Analyst and Detection Engineering roles.</p>
 
